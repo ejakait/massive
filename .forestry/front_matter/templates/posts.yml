@@ -38,5 +38,6 @@ fields:
   hidden: false
   default: 
 pages:
+- _posts/here-is-another-one.md
 - _posts/2017-10-31-welcome-to-massively-the-jekyll-theme.md
 - _posts/2017-10-31-welcome-to-massively-the-jekyll-theme-copy.md
